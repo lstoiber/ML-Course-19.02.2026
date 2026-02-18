@@ -10,3 +10,4 @@ https://observablehq.com/@yizhe-ang/interactive-visualization-of-linear-regressi
 
 Link to Collab notebook:
 https://colab.research.google.com/drive/1lrII4UUM6X9mDrGtZCeX0ZrVrRmSv7nf
+https://mybinder.org/v2/gh/lstoiber/ML-Course-19.02.2026/main?urlpath=%2Fdoc%2Ftree%2FML_intro_tall.ipynb
