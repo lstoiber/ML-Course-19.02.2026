@@ -1,0 +1,12 @@
+Gradient Descent:
+https://developers.google.com/machine-learning/crash-course/linear-regression/gradient-descent-exercise?hl=de
+
+Machine Learning Playground:
+https://playground.scienxlab.org/#activation=relu&batchSize=30&dataset=poroperm&regDataset=reg-plane&learningRate=0.03&regularizationRate=0.01&errorFunc=exponential&problem=classification&noise=5&networkShape=4,2&seed=0.62353&showTestData=false&discretize=false&percTrainData=70&x=true&y=true&xTimesY=true&xSquared=true&ySquared=true&collectStats=false&initZero=false&hideText=false
+
+Linear Regression:
+https://mlplaygrounds.com/machine/learning/linearRegression.html
+https://observablehq.com/@yizhe-ang/interactive-visualization-of-linear-regression
+
+Link to Collab notebook:
+https://colab.research.google.com/drive/1lrII4UUM6X9mDrGtZCeX0ZrVrRmSv7nf
